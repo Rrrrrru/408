@@ -1,0 +1,25 @@
+操作系统	南京大学蒋岩炎
+
+为什么要学操作系统？
+	Operating System: A body of software, in fact, that is responsible for making it easy to run programs (even allowing you to seemingly run many at the same time), allowing programs to share memory, enabling programs to interact with devices, and other fun stuff like that. (OSTEP)
+	
+什么是操作系统？
+	管理软硬件，为程序提供服务的	程序
+
+历史：
+	1940：ENIAC第一台计算机，没有操作系统。逻辑门：真空电子管+内存：延迟线+IO：打孔纸带/指示灯
+	1950：逻辑门：晶体管+内存：磁芯（二维）中断机制出现，复杂任务出现：FORtran语言通过api调用操作计算机
+	多用户共享出现，批处理，中断异常出现。
+	1960：进程	进程切换	
+	1970：进入现代计算机	cpu定时分片	
+
+
+
+
+
+内存管理
+	内存分配和回收
+	
+	内存拓展：虚拟化
+	
+	地址转换
